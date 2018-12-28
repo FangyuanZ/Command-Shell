@@ -1,3 +1,0 @@
-Grade: 83.8
-Comments:
-You seem not using ECE551PATH and you did not do step4. I cannot change your PATH either. Also when I set two value a b I cannot do echo $a$b.It would be nice if you cloud declear your function in header file and impelement them in the cpp file. Also, some function is very long and not well comment
